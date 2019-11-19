@@ -1,0 +1,14 @@
+#moviePic {
+    width: 500px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+#actor-button {
+    display: block;
+    font-size: 1rem;
+    padding: 10px;
+}
